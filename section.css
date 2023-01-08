@@ -1,0 +1,45 @@
+#meal-img{
+    width: 526px;
+    height: 200px;
+    width: 100%;
+    border-radius: 15px;
+    object-fit: cover;
+}
+
+.order-option{
+    
+    width: 526px;
+    margin-left: 77px;
+    border-radius: 15px;
+    background-color: white; 
+    border-bottom: 2px;
+    
+}
+
+
+.description{
+   
+    bottom: 3px;
+    align-items: center;
+    border: 0 0 15px 15px;
+    width: 526px;
+    
+    
+    
+}
+
+.description p{
+    padding-left: 18px;
+    font-size: 18px;
+
+}
+
+#desc-d{
+    margin-top: 18px;
+    color: gray;
+}
+
+.description, #desc-d{
+    font-size: 15px;
+}
+

@@ -1,0 +1,90 @@
+.zomato-ad{
+    display: flex;
+    margin: 90px 0;
+    padding: 40px 0;
+    justify-content: center;
+    background-color: rgb(255 251 247);
+
+}
+
+.board{
+    display: flex;
+    width: 760px;
+    overflow: hidden;
+}
+
+.board img{
+    width: 250px;
+    height: 388px;
+    padding-right: 40px;
+}
+
+.zomato-intro{
+    width: 470px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.zomato-intro h2{
+    font-size: 42px;
+    font-weight: 500;
+    margin-bottom: 19px;
+    color: #1c1c1c;
+}
+
+.zomato-intro p{
+    padding-bottom: 10px;
+    font-size: 15px;
+    color: rgb(49, 40, 40);
+}
+
+.login-details{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 230px;
+    padding-bottom: 20px;
+}
+
+.login-details label{
+    font-size: 16px;
+    color: rgb(49, 40, 40);
+}
+
+.box-email{
+    position: relative;
+
+}
+
+.box-email input{
+    border-radius: 4px;
+    width: 270px;
+    border: 1px solid gray;
+    font-size: 20px;
+    padding-left: 15px;
+    height: 42px;
+}
+
+.box-email button{
+    width: 152px;
+    border-radius: 6px;
+    background-color: #ef4f5f;
+    border: none;
+    font-size: 17px;
+    margin-left: 6px;
+    color: white;
+    height: 46px;
+}
+
+.download{
+    margin-top: 26px;
+    margin-bottom: 0;
+    color: gray;
+    font-size: 10px;
+}
+
+.app-media img{
+    width: 136px;
+    height: 40px;
+}
+
+

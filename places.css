@@ -1,0 +1,56 @@
+h1{
+    font-family:  'Poppins', sans-serif;
+    font-weight: lighter;
+    margin: 80px;
+    color: rgb(54 54 54);
+    margin-bottom: 47px;
+}
+
+
+.place-lists{
+    display: grid;
+    justify-content: center;
+    grid-column-gap: 20px;
+    grid-row-gap: 30px;
+    grid-template-columns: 340px 340px 340px;
+    grid-template-rows: auto;
+
+}
+
+.boxes{
+    border: 1px solid rgb(235, 233, 233);
+    box-shadow: 0 1px 3px rgb(226, 223, 223);
+    width: 340px;
+    height: 87px;
+    overflow: hidden;
+    border-radius: 9px;
+}
+
+
+
+.boxes div{
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+.boxes i{
+    color: gray;
+}
+
+.boxes div span{
+    
+    color: rgb(65, 64, 64);
+    font-size: 18px;
+    
+}
+
+
+
+
+
+
+
+
+
